@@ -1,5 +1,8 @@
+/**
+ *  @file
+ *  @copyright defined in ultrain-core-for-open-source/LICENSE.txt
+ */
 #pragma once
-
 
 namespace ultrainio {
 

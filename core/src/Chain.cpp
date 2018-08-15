@@ -1,3 +1,7 @@
+/**
+ *  @file
+ *  @copyright defined in ultrain-core-for-open-source/LICENSE.txt
+ */
 #include "core/Chain.h"
 
 namespace ultrainio {

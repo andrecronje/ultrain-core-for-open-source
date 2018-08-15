@@ -1,3 +1,7 @@
+/**
+ *  @file
+ *  @copyright defined in ultrain-core-for-open-source/LICENSE.txt
+ */
 #include "crypto/Vrf.h"
 
 #include <boringssl/curve25519.h>

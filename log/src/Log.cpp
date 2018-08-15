@@ -12,6 +12,10 @@
 #include <boost/log/utility/setup/common_attributes.hpp>
 #include <boost/log/sinks/text_ostream_backend.hpp>
 #include <boost/log/attributes/named_scope.hpp>
+/**
+ *  @file
+ *  @copyright defined in ultrain-core-for-open-source/LICENSE.txt
+ */
 #include <boost/log/expressions.hpp>
 #include <boost/log/support/date_time.hpp>
 #include <boost/log/detail/format.hpp>
